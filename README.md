@@ -5,7 +5,7 @@ I'm an aspiring IT  professional exploring the worlds of IT infrastructure, netw
 Currently working through:
 - Real-world labs with Cisco Packet Tracer and CLI
 - Python scripting for automation and cloud provisioning
-- Azure AZ-9104 and foundational cloud skills
+- CompTia A+, CompTia Network+, Python on CodeAcademy and foundational cloud skills
 - Certifications: Azure AZ-900, Cisco Network Essentials
 
 ## 🛠 Recent Project
