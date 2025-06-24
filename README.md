@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Bijay 
 
-<!--
-**BA-cybersec/BA-cybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring IT  professional exploring the worlds of IT infrastructure, networking  and cloud computing. I enjoy solving problems such as diagnosing broken pings in a Cisco lab or troubleshooting scripts in python.
 
-Here are some ideas to get you started:
+Currently working through:
+- Real-world labs with Cisco Packet Tracer and CLI
+- Python scripting for automation and cloud provisioning
+- Azure AZ-9104 and foundational cloud skills
+- Certifications: Azure AZ-900, Cisco Network Essentials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Recent Project
+
+📂 **[Static Routing Lab](https://github.com/BA-cybersec/static-routing-lab)**  
+Simulated two LANs connected through Cisco routers using static routes. Diagnosed interface mismatches, configured routing tables, and verified full end-to-end connectivity across networks.
+
