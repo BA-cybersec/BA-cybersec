@@ -14,4 +14,4 @@ Currently working through:
 Simulated two LANs connected through Cisco routers using static routes. Diagnosed interface mismatches, configured routing tables, and verified full end-to-end connectivity across networks.
 
 📂 **[Smart Technology Project](https://github.com/BA-cybersec/Smart-Technology-project)**  
-Simulated how a smart technology project can be implemented by showing all stages of a project management lifecycle through the use of Gantt chart, Kanban boards and Cisco Packet Tracer.
+Simulated how a smart technology project can be implemented by showing all stages of a project management lifecycle through the use of Gantt charts, Kanban boards and Cisco Packet Tracer.
