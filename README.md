@@ -13,3 +13,5 @@ Currently working through:
 📂 **[Static Routing Lab](https://github.com/BA-cybersec/static-routing-lab)**  
 Simulated two LANs connected through Cisco routers using static routes. Diagnosed interface mismatches, configured routing tables, and verified full end-to-end connectivity across networks.
 
+📂 **[Smart Technology Lab](https://github.com/BA-cybersec/Smart-Technology-project)**  
+Simulated two LANs connected through Cisco routers using static routes. Diagnosed interface mismatches, configured routing tables, and verified full end-to-end connectivity across networks.
